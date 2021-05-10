@@ -1,0 +1,22 @@
+{
+  "name": "assistant",
+  "version": "1.0.0",
+  "description": "ML based voice assistant",
+  "main": "sample.js",
+  "scripts": {
+    "test": "node sample.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurohashi/assistant.git"
+  },
+  "author": "Shubham Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurohashi/assistant/issues"
+  },
+  "homepage": "https://github.com/kurohashi/assistant#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.6.1"
+  }
+}
